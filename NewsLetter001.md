@@ -1,7 +1,16 @@
-# ECH Institute — January 2026 (Episode 1)
-Strengthening Ethereum standards, governance, and public-goods infrastructure
-## Overview
+Title: The Protocol Post #1 
 
+Date: 2026-01-12
+
+Author: Meenakshi Singh & Pooja Ranjan
+
+Image: https://github.com/meenakshi3jan/ech-blog/blob/main/blogs/The%20Protocol%20Post%201.png
+______________________________________________________________________________________
+Your Weekly Dose of Protocol Updates with ECH!
+
+Strengthening Ethereum standards, governance, and public-goods infrastructure
+
+## Overview
 Happy New Year 2026! This is the first _Protocol Post_ from ECH Institute. In this edition, we reflect on key moments from 2025 and bring together highlights from ECH Institute’s ongoing work across protocol coordination, governance support, and community initiatives. Our goal is to provide a clear, accessible view into the processes and discussions shaping Ethereum’s public infrastructure.
 
 # Ecosystem & Protocol Coordination
@@ -24,62 +33,41 @@ The [ECH Institute Podcast](https://open.spotify.com/show/7dgxKMkSyy3HWtQW7OfqXA
 Listen here:
 - [ACDE 227](https://open.spotify.com/episode/5WECd2HEwU5ziRz1wgZcMW?si=uot1nvteScK2ZTtI6qzmQA)
 - [ACDC 172](https://open.spotify.com/episode/5z0xYp0ifgUnybSLi34CMo?si=usHEZwXDRgiTlXD3yL9cgA)
-
-
 ### EIP Governance and support
-
 ECH hosted Ethereum Office Hours with EIP Editor [SamWilsn](https://x.com/_SamWilsn_), continuing efforts to improve clarity, participation, and process efficiency across the EIP and ERC workflows.
 
 * [Office Hours Recap](https://x.com/ECHInstitute/status/2008555530982498483)
 
 ## Community & Diversity Highlights
-
 ## WiEP Brunch — Devconnect 2025
-
 We shared a recap from the Women in Ethereum Protocol [(WiEP)](https://x.com/wiepteam) Brunch at Devconnect 2025. Many thanks to our multimedia contributor [Akash Kshirsagar](https://x.com/lookupforsky) for capturing and sharing the moments.
 • [Recap here](https://x.com/poojaranjan19/status/2008540479328080045)
 
-
-
 ## 2025 Recap from ECH Institute
-
 A look back at ECH Institute’s journey, milestones, and contributions throughout 2025. The recap highlights the key initiatives, collaborations, and moments that defined our work over the year, reflecting a continued commitment to strengthening Ethereum’s governance, coordination, and public-goods infrastructure.
 
 [Click here to watch Look back at 2025](https://x.com/ECHInstitute/status/2006745420878553264)
 
-
 # Public Goods Funding
-
 ### [Octant Epoch 10](https://octant.app/project/10/0xdB742f8e3613B1eB056aAbB4A19565Fd1D9158D4) 
-
 [![Screenshot 2026-01-13 020007](https://hackmd.io/_uploads/SkwD5CfS-l.png)
 ](https://x.com/ECHInstitute/status/2008989895889678598)
 
 ECH Institute is excited to be featured as one of Octant’s “Best of the Best” projects in Epoch 10. The allocation window is now open, and community support helps sustain our public-goods-aligned work.
 
 # Support & Learn More:
-
 By participating and allocating to ECH Institute, community members help sustain open coordination, shared infrastructure, and collaborative governance across the ecosystem.
-
 * [Octant Epoch 10 is Live: Empowering the Ethereum Ecosystem!](https://x.com/ECHInstitute/status/2008989886565790122?s=20)
 * [Support ECH Institute at Octant 10](https://t.co/Ly1vHEFiOs)
 
 ## Perspectives from Contributors
-
 ECH contributors continued sharing insights on Ethereum’s positioning, decentralization, and ecosystem dynamics. Founder [Pooja Ranjan](https://x.com/poojaranjan19) shared her perspective on Ethereum’s evolving role within the broader ecosystem.
-
 * [Ethereum Is Not Innovation, It’s Digital Infrastructure](https://x.com/poojaranjan19/status/2006757626730672637)
 * [Ethereum Magicians post](https://ethereum-magicians.org/t/introduce-acd-g-all-core-devs-governance/27387).
 * [Watch the proposal presentation](https://x.com/poojaranjan19/status/2008318164241969266)
-
-
 ## **Thank You**
-
 Thank you to everyone who participated, tuned in, shared feedback, and supported ECH Institute’s work this week. Your engagement helps keep Ethereum’s standards and governance processes open, transparent and accessible.
-
 Follow us for more updates on **Twitter**: [ECHInstitute](https://x.com/ECHInstitute)
 
 Support public goods. Strengthen Ethereum.
-
-
 Remember to visit our [official website](https://www.ethcatherders.com/), [blogs](https://blog.ethcatherders.com/), [YouTube](https://www.youtube.com/@ethcatherders), [Podcast](https://open.spotify.com/show/7dgxKMkSyy3HWtQW7OfqXA) and follow us on [Twitter](https://x.com/ethcatherders), [LinkedIn](https://www.linkedin.com/company/ethcatherders/) & [Farcaster](https://warpcast.com/ethcatherders) for more updates.
