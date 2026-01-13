@@ -12,7 +12,6 @@ While these activities remain valuable, they are no longer the highest-leverage 
 Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. However, to kick off the year, Ethereum core developers began with [ACDE 227](https://github.com/ethereum/pm/issues/1854)  on January 5, 2026, followed by [ACDC 172](https://github.com/ethereum/pm/issues/1844) on Thursday, January 8, 2026. Livestreaming on YouTube and X was supported by Akash Kshirsagar, ensuring community access to both meetings.
 
  • ACDE 227 [YouTube stream](https://youtube.com/watch?v=1B03r5t03bU) & [X-Stream](https://x.com/ECHInstitute/status/2008166388620472596) 
- 
  • ACDC 172 [X-stream](https://x.com/ECHInstitute/status/2009252816003715458)
 
 ### Weekly Podcasts
