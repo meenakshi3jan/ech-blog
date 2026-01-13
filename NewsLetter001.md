@@ -13,6 +13,12 @@ Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. 
 
  • ACDE 227 [YouTube stream](https://youtube.com/watch?v=1B03r5t03bU) & [X-Stream](https://x.com/ECHInstitute/status/2008166388620472596) 
  • ACDC 172 [X-stream](https://x.com/ECHInstitute/status/2009252816003715458)
+Pooja Ranjan from ECH Institute kicked off [ACDE 227](https://www.youtube.com/watch?v=1B03r5t03bU&t-180s) by sharing proposals discussed in the previous EIPIP meeting with the All Core Devs Execution (ACDE) group. 
+- [Introduce ACD-G (All Core Devs – Governance)](https://ethereum-magicians.org/t/introduce-acd-g-all-core-devs-governance/27387)
+- [Add Optional “Upgrade” Field to Standards Track Core EIPs](https://ethereum-magicians.org/t/add-optional-upgrade-field-to-standards-track-core-eips/27388)
+- https://github.com/ethcatherders/EIPIP/issues/397
+- Update EIP-7723 for clarity, ref https://github.com/ethereum/EIPs/pull/11006
+Community members with opinions on any of these proposals were encouraged to add their comments and feedback.
 
 ### Weekly Podcasts
 The [ECH Institute Podcast](https://open.spotify.com/show/7dgxKMkSyy3HWtQW7OfqXA) released two audio versions of Protocol meetings 
