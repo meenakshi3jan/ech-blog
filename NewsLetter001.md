@@ -2,7 +2,7 @@
 Strengthening Ethereum standards, governance, and public-goods infrastructure
 ## Overview
 
-This is our 1st Newsletter in January 2026. This will recap 2025 as well as brings together highlights from [ECH Institute’s](https://x.com/ECHInstitute) ongoing work across protocol coordination, governance support, and community initiatives. We aim to provide a clear view into the processes and discussions shaping Ethereum’s public infrastructure.
+Happy New Year 2026! This is the first _Protocol Post_ from ECH Institute. In this edition, we reflect on key moments from 2025 and bring together highlights from ECH Institute’s ongoing work across protocol coordination, governance support, and community initiatives. Our goal is to provide a clear, accessible view into the processes and discussions shaping Ethereum’s public infrastructure.
 
 # Ecosystem & Protocol Coordination
 
