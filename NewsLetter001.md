@@ -15,7 +15,7 @@ Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. 
  • ACDC 172 [X-stream](https://x.com/ECHInstitute/status/2009252816003715458)
 
 ### Weekly Podcasts
-This week’s podcast episodes from [ECH Institute](https://x.com/ECHInstitute) covered open-source and protocol-focused topics relevant to the Ethereum ecosystem.
+The [ECH Institute Podcast](https://open.spotify.com/show/7dgxKMkSyy3HWtQW7OfqXA) released two audio versions of Protocol meetings 
 Listen [Here](https://x.com/ECHInstitute/status/2008232017394307461)
 
 
