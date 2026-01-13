@@ -16,7 +16,9 @@ Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. 
 
 ### Weekly Podcasts
 The [ECH Institute Podcast](https://open.spotify.com/show/7dgxKMkSyy3HWtQW7OfqXA) released two audio versions of Protocol meetings 
-Listen [Here](https://x.com/ECHInstitute/status/2008232017394307461)
+Listen here:
+- [ACDE 227](https://open.spotify.com/episode/5WECd2HEwU5ziRz1wgZcMW?si=uot1nvteScK2ZTtI6qzmQA)
+- [ACDC 172](https://open.spotify.com/episode/5z0xYp0ifgUnybSLi34CMo?si=usHEZwXDRgiTlXD3yL9cgA)
 
 
 ### EIP Governance and support
