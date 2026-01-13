@@ -11,7 +11,7 @@ Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. 
 
  • ACDE 227 [YouTube stream](https://youtube.com/watch?v=1B03r5t03bU) & [X-Stream](https://x.com/ECHInstitute/status/2008166388620472596) 
  
- • [ACDC Livestream](https://x.com/ECHInstitute/status/2009252816003715458)
+ • ACDC 172 [X-stream](https://x.com/ECHInstitute/status/2009252816003715458)
 
 ### Weekly Podcasts
 
