@@ -5,7 +5,9 @@ Strengthening Ethereum standards, governance, and public-goods infrastructure
 Happy New Year 2026! This is the first _Protocol Post_ from ECH Institute. In this edition, we reflect on key moments from 2025 and bring together highlights from ECH Institute’s ongoing work across protocol coordination, governance support, and community initiatives. Our goal is to provide a clear, accessible view into the processes and discussions shaping Ethereum’s public infrastructure.
 
 # Ecosystem & Protocol Coordination
+Over the past year, ECH has evolved its collaboration with the Ethereum Foundation. As EF now has an in-house dedicated Protocol Support team, ECH has stepped back from serving as the default operator for all breakout-room livestreaming. We have continued to support the livestreaming of core Ethereum protocol meetings - _All Core Devs Execution (ACDE)_ and _All Core Devs Consensus (ACDC)_ to ensure accessibility for the broader community.
 
+While these activities remain valuable, they are no longer the highest-leverage use of ECH’s unique position. This transition helps avoid duplication of efforts and allows ECH to focus more deeply on protocol-centered governance processes, standards coordination infrastructure, and durable public-good artifacts, while expanding our work in education, community building, and increasing contributor diversity supporting Ethereum’s long-term growth as public infrastructure.
 ###  Ethereum Protocol Meetings
 Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. However, to kick off the year, Ethereum core developers began with [ACDE 227](https://github.com/ethereum/pm/issues/1854)  on January 5, 2026, followed by [ACDC 172](https://github.com/ethereum/pm/issues/1844) on Thursday, January 8, 2026. Livestreaming on YouTube and X was supported by Akash Kshirsagar, ensuring community access to both meetings.
 
