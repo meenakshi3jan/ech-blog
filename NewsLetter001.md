@@ -6,7 +6,7 @@ Happy New Year 2026! This is the first _Protocol Post_ from ECH Institute. In th
 
 # Ecosystem & Protocol Coordination
 
-###  ACDE & ACDC Meetings
+###  Ethereum Protocol Meetings
 ECH continued supporting Ethereum protocol coordination by livestreaming All Core Devs – Execution (ACDE) and All Core Devs – Consensus (ACDC) meetings, improving transparency and accessibility for the wider community.
 
  • [ACDE Livestream](https://x.com/ECHInstitute/status/2008166388620472596)
