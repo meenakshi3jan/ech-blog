@@ -9,7 +9,7 @@ Happy New Year 2026! This is the first _Protocol Post_ from ECH Institute. In th
 ###  Ethereum Protocol Meetings
 Typically, the All Core Devs – Testing (ACDT) meeting takes place on Mondays. However, to kick off the year, Ethereum core developers began with [ACDE 227](https://github.com/ethereum/pm/issues/1854)  on January 5, 2026, followed by [ACDC 172](https://github.com/ethereum/pm/issues/1844) on Thursday, January 8, 2026. Livestreaming on YouTube and X was supported by Akash Kshirsagar, ensuring community access to both meetings.
 
- • [ACDE Livestream](https://x.com/ECHInstitute/status/2008166388620472596)
+ • ACDE 227 [YouTube stream](https://youtube.com/watch?v=1B03r5t03bU) & [X-Stream](https://x.com/ECHInstitute/status/2008166388620472596) 
  
  • [ACDC Livestream](https://x.com/ECHInstitute/status/2009252816003715458)
 
