@@ -1,11 +1,9 @@
-Title: The Protocol Post #1 
-
-Date: 2026-01-12
-
-Author: Meenakshi Singh & Pooja Ranjan
-
-Image: https://github.com/meenakshi3jan/ech-blog/blob/main/blogs/The%20Protocol%20Post%201.png
-______________________________________________________________________________________
+---
+title: "The Protocol Post #1"
+date: 2026-01-12
+author: Meenakshi Singh & Pooja Ranjan
+image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/The%20Protocol%20Post%201.png
+---
 Your Weekly Dose of Protocol Updates with ECH!
 
 Strengthening Ethereum standards, governance, and public-goods infrastructure
